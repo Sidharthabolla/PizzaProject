@@ -1,1 +1,2 @@
 This is an Online Pizza Shop I developed in Php and Mysql to practically implement and understand MVC design Pattern
+Make sure Apache and Sql server are running status to run this code
