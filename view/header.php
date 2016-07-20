@@ -6,7 +6,7 @@
     web server's document root.
  -->
  <!-- CHANGE eoneil to your own topcat username-->
-<?php $app_path = "/pizza1/"; ?>
+<?php $app_path = "/PizzaProject-master/"; ?>
     
 <!DOCTYPE html>
 <html>
