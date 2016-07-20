@@ -4,5 +4,7 @@ The Website allows us to use it as an admin or a student (customer)
 Admin can add a new size, toppigs, set the status of order etc
 Student can order the pizza of availble size and toppings to thier room.no
 
+Its a backend application ,So didnt work much on the display. 
+
 
 If error occurs, try changing the value of $app_path (in header.php in veiw file) to the foldername where this project runs.
